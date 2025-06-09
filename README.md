@@ -14,12 +14,8 @@
 
 ## 🚀 Tools I Use  
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-
 ---
 
 ## 📊 GitHub Stats  
